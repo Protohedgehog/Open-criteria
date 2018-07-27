@@ -11,3 +11,6 @@ Research data have the 'FAIR' principles. Let's create a complimentary set of pr
 * Stephen Eglen
 * Laurent Gatto
 
+## Key resources
+
+* [FAIR access to Australia's research](https://www.fair-access.net.au/)
