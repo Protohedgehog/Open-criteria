@@ -15,3 +15,7 @@ For now, this project is in SUPER START MODE! If you are interested, please add 
 ## Key resources
 
 * [FAIR access to Australia's research](https://www.fair-access.net.au/)
+
+## TO DO
+
+Contact the authors [here](https://trianglesci.org/2018/07/17/findable-citable-usable-sustainable-a-checklist-for-rigorous-digital-publishing/) to see about a collaboration.
